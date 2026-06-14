@@ -1,0 +1,15 @@
+{
+  "labels": [
+    "Crumpled Folder",
+    "Deformed folder",
+    "Good folder",
+    "Inside-Out Folder",
+    "Ripped folder"
+  ],
+  "preprocess": {
+    "size": 256,
+    "method": "crop",
+    "divide_255": true,
+    "normalize": false
+  }
+}

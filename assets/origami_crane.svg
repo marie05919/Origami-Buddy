@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <!-- Purple & Green Origami Crane -->
+  <g transform="translate(0, 0)">
+    <!-- Back Wing (Light Purple) -->
+    <polygon points="100,110 115,20 135,95" fill="#a78bfa" />
+    <polygon points="100,110 135,95 150,105" fill="#7c3aed" />
+
+    <!-- Neck (Dark Sage Green) -->
+    <polygon points="100,110 60,85 75,105" fill="#2d6a4f" />
+    <!-- Head/Beak (Sage Green) -->
+    <polygon points="60,85 35,75 50,90" fill="#40916c" />
+    <!-- Head details -->
+    <polygon points="35,75 30,80 50,90" fill="#1b4332" />
+
+    <!-- Tail (Medium Sage Green) -->
+    <polygon points="100,110 150,105 175,55" fill="#52b788" />
+    <polygon points="100,110 175,55 135,120" fill="#74c69d" />
+
+    <!-- Front Wing (Deep Violet) -->
+    <polygon points="100,110 75,155 125,115" fill="#6d28d9" />
+    <polygon points="75,155 60,105 100,110" fill="#c084fc" />
+
+    <!-- Body Diamond Center (Accent Green/Purple Fold) -->
+    <polygon points="100,110 125,115 135,120" fill="#3f37c9" />
+    <polygon points="100,110 75,105 60,105" fill="#38b000" />
+  </g>
+</svg>

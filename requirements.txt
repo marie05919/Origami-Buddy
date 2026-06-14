@@ -1,0 +1,7 @@
+# Runtime deps for the Streamlit app — pinned for reproducible installs.
+# Inference runs on CPU via a TorchScript model (no fastai required).
+numpy==1.26.4
+pillow==10.4.0
+torch==2.5.1
+torchvision==0.20.1
+streamlit==1.41.1

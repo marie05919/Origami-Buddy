@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Training data (usually too large for git)
+data/
+
+# fastai source export — large; the app uses model/model.ts instead.
+# Keep model.ts + labels.json tracked so the app is reproducible on any device.
+model/export.pkl
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
